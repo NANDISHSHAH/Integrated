@@ -1,0 +1,7 @@
+dlib library need you need to create a conda enviroment for that
+conda install -c conda-forge dlib  
+pip install dlib 
+Opencv
+pip install opencv-python
+camera in a laptop should be working as a hardware
+install tensorflow
